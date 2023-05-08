@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abubakar Hadijat Oluwatoyin</h1>
 <h3 align="center">A Passionate Developer from Nigeria</h3>
-<img align="right" alt="Coding" width="500" src="https://cdnb.artstation.com/users/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif">
+<img align="center" alt="Coding" lenth="400" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deejaht&label=Profile%20views&color=0e75b6&style=flat" alt="deejaht" /> </p>
 
